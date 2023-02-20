@@ -1,0 +1,10 @@
+.alert {
+    background-color: seagreen;
+    padding: 20px 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#guessed {
+    padding: 5px;
+}
